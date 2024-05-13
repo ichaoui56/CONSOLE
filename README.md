@@ -1,4 +1,4 @@
-# Projet de Digitalisation de "Consoles+ Magazine"
+# Projet de Digitalisation de "Consoles+ Magazine" (brief-3)
 
 ![Consoles+ Magazine](https://i.ibb.co/sJfyn1g/Capture-d-cran-2024-05-13-145259.png)
 
